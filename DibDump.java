@@ -1,6 +1,5 @@
 /**
- * @author EricN
- * February 2, 2009
+ * 
  * A "short" code segment to open bitmaps and
  * extract the bits as an array of integers. If the array is small (less than 30 x 30)
  * it will print the hex values to the console.
